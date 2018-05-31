@@ -1,0 +1,5 @@
+git is A free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows.
+Pro Git by Scott Chacon and Ben Straub is available to read online for free. Dead tree versions are available on Amazon.com.
+This ih a fucking good day!!!
+The advantages of Git compared to other source control systems.
